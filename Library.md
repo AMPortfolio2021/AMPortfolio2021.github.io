@@ -15,6 +15,128 @@ serves as a dynamic platform for community engagement, promoting library events,
 user-centric approach, seamless accessibility, and commitment to fostering knowledge and community, your library website
 design sets a benchmark for modern library services.
 
+The city hall in Barcelona asked me to redesign the Juan Marse library website in order to make it easier for the users to reserve their books and they can also be aware of the upcoming release. That's what I did.
+
+## PROJECT OVERVIEW
+
+| Product | My Role  | Software |
+|-----------------|:-------------|:---------------:|
+| Library website | UX researcher & UX designer  | Figma, Sketch, photoshop, Adobe XD |
+
+{: .custom-class #custom-id}
+
+##### Objectives
+The the Juan Marse library in Barcelona wants to offer to book lovers new features and develop a user-friendly website. So, my understanding was that we need to focus on user-friendly website for the users.
+
+##### Design Goals
+- Users save time when reserving a book
+- Users can see where to pick up the book
+- Users can reserve the book and pick it up later
+- Users can have easily access to upcoming releases
+
+### The Process
+
+| Discover | Define | Develop | Design | Deliver |
+|-----------------|:-------------|:---------------:|
+| Business Research |  Problem & Solution Statement  | Scenario | Ideation, Sketches | Final Wireframe |
+| User Research | Create Persona | User Flow  | Wireframes | Clickable Prototype |
+| Competitive Research    |   |  | User Testing, Iterations |
+
+### The Challenges
+
+##### The Problems
+
+- Users face issues with the amount of time and effort required for tasks such as searching, and browsing.
+- Users have problems when and where they can pick up the books. They go to the library but the book was not available.
+- Users have problems finding their books in different branches.
+- Users can't find the upcoming release easily in the website.
+
+##### The Solutions
+
+- Promote the website that simplifies the search process with user-friendly features, informative search results.
+- Provide a new feature for users to be able to reserve the book in the library.
+- Provide a feature to see upcoming releases.
+- Allow filtering option to make the process for the user easier to see their favourite genre.
+
+## DISCOVER
+
+##### Business Analysis
+Research has shown that most of the libraries in Barcelona don't have the feature of reserving books and they don't let you reserve any book. The upcoming release are no clear in the website.
+So, Juan Marse library revolutionary design provides reserving book feature for users and also makes the upcoming releases visible in the design.
+
+### Heuristic Evaluation
+
+##### Usability Testing ( Usability Huristics)
+
+##### Current state analysis
+To develop a concrete roadmap to address the pain points, we understood the complexities that form the current state.
+
+##### Finding: ( Analysis Heuristics)
+
+![Alt Text](../assets/img/Bibloteca1.jpg)
+
+##### Previous website
+Observations:
+- Juan Marse logo is not present.
+- Navigation terms are not user-focused.
+- It's unclear where users can see upcoming releases.
+- Not clear if users can reserve the book or not.
+- No filtering feature can be seen.
+- Not clear if the user can have have a personal profile or not.
+
+The current website as you can see has many problems. The website has a very poor structure and is completely disorganized.
+
+##### What can we do?
+After discussions, we concluded that we need to make a complete website redesign. We outlined our client's ultimate goal and developed an approach plan to make steps toward meeting her goal. Our approach plan is to oriented to develop the user-friendly website.
+
+##### Previous website
+We concluded:
+A total redesign of the website is needed to establish a user-friendly website.
+
+Approach Plan:
+Analyze other libraries to:
+- Develop user-friendly experience
+- Provide a feature to reserve a book
+- Make the upcoming releases visible on the navigation
+- Provide a profile feature
+
+### Online Survey & Major Outcomes
+To set the research in the right direction our next step was to craft an online survey to research the experience of our possible users, discover their needs and unpack the insights.
+There were a total of 20 questions. We received a total of 248 responses. We followed up with 11 participants.
+Some questions are as follows:
+- What's your age?
+- How many hours do you read book every week?
+- How often do you go to the library?
+- What are you looking for more when going to the library website?
+- Can you tell us why do you go to the library or library website?
+- How much on average do you spend on a library website?
+- Do you usually reserve book from the library online or in the library?
+- When was the last time you feel discomfort on a library website? What was the reason?
+
+### Contextual Research
+My Observation
+Most people that go to the library website:
+- The 20s, 30s, and 40s age group
+- Mostly students and employed
+- Love reading
+- Educated
+
+So I decided that my personas are educated people that love reading a love. They are comfortable to use technology and they don't mind browsing on the library website.
+
+![Alt Text](../assets/img/Juan-marse1.jpeg)
+
+### Competitive Analysis
+I conducted thorough research of potential competitors and discovered some libraries are comparable to our goals.
+
+Biblioteca de la Universidad Pompeu Fabra is their biggest competitors.
+Also investigated UPC university library,
+
+
+
+
+
+
+
 ## Research
 
 I asked several questions from different users to see what problems they face when they look at the library website.
