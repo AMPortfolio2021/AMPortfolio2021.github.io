@@ -17,7 +17,9 @@ design sets a benchmark for modern library services.
 
 The city hall in Barcelona asked me to redesign the Juan Marse library website in order to make it easier for the users to reserve their books and they can also be aware of the upcoming release. That's what I did.
 
-## PROJECT OVERVIEW
+<div class="warning" style='background-color:#798DC5; text-align:center;'>
+    <h2>PROJECT OVERVIEW</h2>
+</div>
 
 | Product | My Role  | Software |
 |-----------------|:-------------|:---------------:|
@@ -58,7 +60,9 @@ The the Juan Marse library in Barcelona wants to offer to book lovers new featur
 - Provide a feature to see upcoming releases.
 - Allow filtering option to make the process for the user easier to see their favourite genre.
 
-## DISCOVER
+<div class="warning" style='background-color:#798DC5; text-align:center;'>
+    <h2>DISCOVER</h2>
+</div>
 
 ##### Business Analysis
 Research has shown that most of the libraries in Barcelona don't have the feature of reserving books and they don't let you reserve any book. The upcoming release are no clear in the website.
@@ -131,13 +135,9 @@ I conducted thorough research of potential competitors and discovered some libra
 Biblioteca de la Universidad Pompeu Fabra is their biggest competitors.
 Also investigated UPC university library,
 
-
-
-
-
-
-
-## Research
+<div class="warning" style='background-color:#798DC5; text-align:center;'>
+    <h2>Research</h2>
+</div>
 
 I asked several questions from different users to see what problems they face when they look at the library website.
 One of my personas, Lola, says: "I wish the library made it easier for me to access all the newest mystery releases"
