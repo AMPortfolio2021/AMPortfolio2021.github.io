@@ -109,9 +109,7 @@ We concluded:
 
 A total redesign of the website is needed to establish a user-friendly website.
 
-Approach Plan:
-
-Analyze other libraries to:
+Approach Plan is to nalyze other libraries to:
 - Develop user-friendly experience
 - Provide a feature to reserve a book
 - Make the upcoming releases visible on the navigation
@@ -134,9 +132,8 @@ Some questions are as follows:
 - When was the last time you feel discomfort on a library website? What was the reason?
 
 ### Contextual Research
-My Observation
 
-Most people that go to the library website:
+My Observation is that most people that go to the library website:
 - The 20s, 30s, and 40s age group
 - Mostly students and employed
 - Love reading
@@ -258,13 +255,14 @@ For developing the idea we considered A Scenario to respond to our Personas' nee
 
 ##### Scenario & User Flow
 
+The journey Lola and Javier take to explore the website and reserve her book:
+
 ![Alt Text](../assets/img/flowdiagramlibrary.jpg)
+
+The journey Ana takes to explore the website and find new releases:
 
 ![Alt Text](../assets/img/flowdiagramlibrary1.jpg)
 
-The journey Lola takes to explore the website and reserve her book.
-
-The journey Javier takes to explore the website and find new releases.
 
 <div class="warning" style='background-color:#798DC5; text-align:center;'>
     <h2>DESIGN</h2>
@@ -274,9 +272,11 @@ The journey Javier takes to explore the website and find new releases.
 
 ### Ideation
 
+Low-Fidelity Prototype
+
 ![Alt Text](../assets/img/wireframe.jpeg)
 
-Low-Fidelity Prototype
+
 
 ##### Refinement Based on Usability Testing
 
@@ -375,7 +375,51 @@ Third Iteration Refinement
 ##### High-Fidelity Prototype
 For the hi-fi prototype, we designed different pages such as: Home, Search, Reserve the book, and Librarian page.
 
+![Alt Text](../assets/img/Reserve-a-book.jpg)
+
+![Alt Text](../assets/img/librarian-user.jpg)
 
 ### Interactive Design process
-
 ##### Digital Prototype
+##### Home page
+This is how the user selects one genre from the homepage and what result they can see. They have View more, Notify me, and people's comments in their search.
+
+![Alt Text](../assets/img/home-page.gif)
+
+##### Advanced search
+
+Then the user can use the advanced search to find their favourite books.
+
+![Alt Text](../assets/img/advancedsearch.gif)
+
+##### Reserving a books
+
+The user can reserve as many book as they want. They can see which library has the book and how to receive the reservation information.
+
+![Alt Text](../assets/img/reserve-process.gif)
+
+##### Librarian flow
+
+The librarian can sign in to their account to see which and how many books they need to prepare. They see a table with 3 stages: Books to be reserved, to be collected, and to be returned. In the first section, they send notifcation to the clients to collect the book. Then, they go to the second stage to click whether the book delivered or not. If it is delivered, they click the 'Delivered' button and the book will be removed from the list.
+
+![Alt Text](../assets/img/librarian1.gif)
+
+If the book isn't collected after 24h, the 'Back to shelf' button will be active and the librarian can return the book to the shelf. Then the librarian can go to the last stage to check if the book is returned on time. If the book is returned, they can click the 'Return' button and the book will be removed from the list. If the book isn't returned yet, the librarian can send notification to infrom the user to return the book.
+
+![Alt Text](../assets/img/librarian-2.gif)
+
+##### New release capability
+
+Another capability of the website is having an easy access to the new releases books. The user can click the favourite genre and then book to see which library has their book. They can reserve it online.
+
+![Alt Text](../assets/img/new-release1.gif)
+
+![Alt Text](../assets/img/new-release2.gif)
+
+![Alt Text](../assets/img/new-release3.gif)
+
+### Next step:
+
+- Keep in touch with interested users via emails
+- Consider a change in the menu
+- Add more sections to the home page
