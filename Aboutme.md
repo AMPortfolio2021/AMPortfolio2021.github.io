@@ -39,67 +39,7 @@ As an enthusiastic designer with an entrepreneurship background,I believe intuit
 |Adobe InDesign  | Miro   | HTML , CSS ( Basic)  |
 
 
-## Experience
-### UX Designer
-#### Generalitat de Barcelona
-Jan 2021 - Present
-
-##### Accomplishment:
-* Redesigned an internal legacy tool to improve productivity for users.
-* Collaborated across product, engineering, and business teams, owning the
-design from concept to production.
-* Worked through ambiguity to deliver user-focused solutions.
-
---------------------------------------------------------------
-
-### Product Designer
-#### Movie Theater in Barcelona
-Feb 2022 - Jan 2023
-
-##### Accomplishment:
-
-* Led the design team to define projects within constraints and ensure the
-mutual understanding of scope, goals, objectives, deliverables, and deadlines.
-* Created a visual brand identity and brand guideline including logo, typography, color palette, and icons in an iterative data-driven process with input
-from well-defined focus groups.
-* Developed the information architecture and design of the e-commerce website through an end-to-end process of developing and testing multiple iterations of user flows, and rapid low-fi to high-fi prototypes.
-
-------------------------------------------------------------------
-
-### Digital Product Designer
-#### Barcelona Super-computing center
-Dec 2019 - Jan 2023
-
-
-##### Accomplishment:
-
-* Analyzed client’s business needs to define problems and devise innovative,
-simple, and elegant data-driven solutions.
-* Led the efforts in information architecture and interactive design to complete
-the website redesign based on the new business strategy.
-* Developed a smoke test strategy to generate product interest, capture leads,
-and nurture a campaign to demonstrate the high demand for the product to
-potential investors.
-
------------------------------------------------------------------
-
-### User Researcher and Interaction Designer
-#### Barcelona Super-computing center
-Dec 2018 - Nov 2019
-
-##### Accomplishment:
-
-* Designed and conducted UX research including user interviews, contextual
-inquiry, survey development, and usability testing to enable strategic recommendations.
-* Developed concepts and created multiple iterations of wireframes and interactive prototypes.
-* Collaborated with design, engineering, and product management to develop
-data-driven solutions.
-
-----------------------------------------------------------------
-
 ## Education
-##### Master in UX/ Usability, Interaction Design and User Experience
-Pompeu Fabra University
 ##### UX / UI Design
 Ironhack Bootcamps
 ##### MA in English Literature/ Creative Writing
